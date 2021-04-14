@@ -1,0 +1,31 @@
+.logo{
+    width: 100px;
+}
+
+.fond-nav{
+    background-color: lightgrey;
+}
+
+.lien-nav{
+    color:dimgrey;
+    text-decoration: none;
+    margin-right: 20px;
+    
+}
+
+a:hover{
+    color: whitesmoke;
+}
+
+.img{
+    src: url(../img/arras.png);
+}
+
+.text{
+    text-align: justify;
+}
+
+.images{
+    max-width: 500px;
+	height: auto;
+}
